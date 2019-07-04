@@ -2,6 +2,7 @@
 	<header class="header">
 		<h1 v-on:click="changedTitle">{{headerTitle}}</h1>
 		<p>{{title}}</p>
+		
 	</header>
 </template>
 
